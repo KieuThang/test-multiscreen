@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestMutlScreenApp</string>
+    <string name="text_multiscreen">values-sw600dp</string>
+</resources>
